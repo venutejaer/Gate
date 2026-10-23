@@ -1,0 +1,6 @@
+{
+  "name": "GATETrack AI — Smart GATE Preparation Tracker",
+  "description": "Comprehensive GATE Electrical Engineering (EE) preparation platform with syllabus tracking, smart planner, verified PYQs, TCS-style mock tests, formula book, 3D interactive visualizer, and AI weakness recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
